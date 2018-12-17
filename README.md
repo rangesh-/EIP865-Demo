@@ -21,4 +21,9 @@ Metamask Interaction
 3. Use Metamask for communicating with ganache and interacting with webapp. 
 
 
-Reference : https://github.com/adilharis2001/ERC865Demo
+References : 
+
+https://medium.com/coinmonks/erc865-a-case-for-more-user-friendly-tokens-eb68e62a986
+
+https://medium.com/coinmonks/transfer-ethereum-tokens-without-ether-an-erc20-improvement-to-seriously-consider-90bebd447bb
+Adhil Github 
